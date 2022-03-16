@@ -1,2 +1,2 @@
-<h1>Hi <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I am Yashas D B</h1>
-<h1>I am a aspiring full stack Web Developer.... </h1>
+<h1>Hi <span> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></span> I am Yashas D B</h1>
+<h2>I am a aspiring full stack Web Developer.... </h2>
