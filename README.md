@@ -2,12 +2,12 @@
 <h2>I am a aspiring full stack Web Developer.... </h2>
 <table>
   <tr> <td valign = "center">
-    <ol>
+    <ul>
       <li> I am BCA a graduate...</li>
        <li> I am currently learning MERN stack at Masai School and I am very much interested in Web Development....</li>
-    </ol>
+    </ul>
     </td>
   </tr>
 </table>
 
-
+#Yashas D B's Contribution Graph ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?Yashas88=#Yashas88&theme=dracula&hide_border=true)
