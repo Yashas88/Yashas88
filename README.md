@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://codepen.io/yashas d b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashas d b" height="30" width="40" /></a>
 <a href="https://dev.to/yashas88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashas88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashas d b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas d b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yashas-d-b-88ba70195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas d b" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yashas d b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yashas d b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashas d b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashas d b" height="30" width="40" /></a>
 </p>
@@ -38,6 +38,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p> <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashas88&" alt="yashas88" /></p>  <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashas88&theme=dracula&hide_border=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashas88" alt="yashas88" /></a> </p>
 
