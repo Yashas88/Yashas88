@@ -16,7 +16,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/yashasDB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas d b" height="30" width="40" /></a> &nbsp
+  <a href="https://www.linkedin.com/in/yashasdb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas d b" height="30" width="40" /></a> &nbsp
   <a href="yashasbasavaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashas d b" height="30" width="40" /></a> &nbsp
   <a href="https://codepen.io/yashas d b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashas d b" height="30" width="40" /></a> &nbsp
 <a href="https://dev.to/yashas88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashas88" height="30" width="40" /></a> &nbsp
