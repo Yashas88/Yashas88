@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **React js, Node js, Express**
+- 🌱 I’m currently learning **React js, Node js, Express, mongoDB**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
